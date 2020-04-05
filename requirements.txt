@@ -69,7 +69,7 @@ static3==0.7.0
 Twisted==17.5.0
 txaio==2.8.0
 Unidecode==0.4.21
-urllib3==1.21.1
+urllib3==1.24.2
 webencodings==0.5.1
 websocket-client==0.44.0
 whitenoise==3.3.0
